@@ -1,0 +1,9 @@
+#hosts.ini
+[lab]
+tower1.9128.internal
+tower2.9128.internal
+tower3.9128.internal
+ad1.9128.internal
+support1.9128.internal
+support2.9128.internal
+
